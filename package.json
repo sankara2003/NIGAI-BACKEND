@@ -4,6 +4,7 @@
   "description": "memberportalforregisterlogin",
   "main": "server.js",
   "scripts": {
+    "build":"npm run build",
     "start": "nodemon server.js",
     "test": "npm start"
   },
